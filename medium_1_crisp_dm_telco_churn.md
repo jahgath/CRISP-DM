@@ -1,6 +1,6 @@
 # Predicting Telecom Churn with CRISP-DM: A Model That Wins on Paper and What the Numbers Really Say
 
-*All six CRISP-DM phases, from business case to a Dockerised API, on 7,043 telecom customers. Code: [REPO_URL]/1_CRISP-DM*
+*All six CRISP-DM phases, from business case to a Dockerised API, on 7,043 telecom customers. Code: https://github.com/jahgath/CRISP-DM/tree/main/1_CRISP-DM*
 
 ---
 

@@ -1,4 +1,4 @@
-/* Score code (ridge regression), scenario C: after period 2 (+G1,G2) — generated 2026-11-09 from semma_student_performance.ipynb
+/* Score code (ridge regression), scenario C: after period 2 (+G1,G2) — generated 2026-11-10 from semma_student_performance.ipynb
    NOT executed in SAS; arithmetic verified against scikit-learn in Python. Input: raw columns; derived features computed first. */
 log_absences = log(1 + absences); alc_avg = (Dalc + Walc)/2; parent_edu = (Medu + Fedu)/2; past_failure = (failures > 0);
 P_G3 = 10.459830

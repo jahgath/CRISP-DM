@@ -1,6 +1,6 @@
 # Mining 540,000 Retail Transactions with KDD: Segments, Rules, and a Prediction That Only Modestly Beats Common Sense
 
-*The Fayyad–Piatetsky-Shapiro–Smyth KDD process, step by step, on the UCI/Kaggle Online Retail dataset. Code: [REPO_URL]/3_KDD*
+*The Fayyad–Piatetsky-Shapiro–Smyth KDD process, step by step, on the UCI/Kaggle Online Retail dataset. Code: https://github.com/jahgath/CRISP-DM/tree/main/3_KDD*
 
 ---
 

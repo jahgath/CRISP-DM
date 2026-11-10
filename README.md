@@ -13,7 +13,7 @@ Each folder also holds `src/` (shared feature code), `deploy/` (FastAPI app, Doc
 ## Articles (drafts)
 - [Medium 1 — CRISP-DM](medium_1_crisp_dm_telco_churn.md)
 - [Medium 3 — KDD](medium_3_kdd_online_retail.md)
-- Medium 2 — SEMMA: not written yet.
+- [Medium 2 — SEMMA](medium_2_semma_student_performance.md)
 
 ## Run
 Open a notebook in Google Colab and Run all (the notebooks fetch data themselves where possible), or locally:
@@ -29,4 +29,4 @@ cd 1_CRISP-DM && jupyter nbconvert --to notebook --execute --inplace crisp_dm_te
 - **SAS / SPSS were not run.** The SEMMA project is a Python re-implementation with a node-mapping table to SAS Enterprise Miner.
 - Docker images have not been built; API handlers were exercised in-process only.
 - Videos and Medium publication are pending.
-- Work in progress: the SEMMA notebook was still being finalised when this was pushed.
+- The SEMMA notebook is executed with zero errors; its own results are candid that no champion is statistically distinguishable from its strongest baseline on the 79-row test set.
